@@ -1,2 +1,0 @@
-# MemoDemo
-MemoDemo For iOS
